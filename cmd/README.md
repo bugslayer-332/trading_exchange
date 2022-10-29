@@ -1,1 +1,0 @@
-This folder contains the main application entry point files for the project, with the directory name matching the name for the binary. So for example cmd/simple-service meaning that the binary we publish will be simple-service.

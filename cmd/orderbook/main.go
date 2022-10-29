@@ -5,9 +5,9 @@ import (
 	"log"
 	"time"
 
+	"github.com/Adidev-KGP/trading_exchange/cmd/slim-orderbook/engine"
 	"github.com/Shopify/sarama"
 	cluster "github.com/bsm/sarama-cluster"
-	"github.com/kailashyogeshwar85/slim-orderbook/cmd/slim-orderbook/engine"
 )
 
 func main() {
